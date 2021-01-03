@@ -1,0 +1,111 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mue Blog",
+    "description": "",
+    "home_page_url": "https://blog.muetab.com",
+    "feed_url": "https://blog.muetab.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Mue Staff"
+    },
+    "items": [
+        {
+            "id": "https://blog.muetab.com/update-410/",
+            "url": "https://blog.muetab.com/update-410/",
+            "title": "Update 4.1.0",
+            "summary": "Here's an update that brings many fixes to Mue and a few additions: Fixed: Added:Setting to adjust background brightness (thanks @edenbun !)Maximise button - click it to see just the backgroundSettings to enable/disable refresh and maximiseFavourite button - click it to make it so the&hellip;",
+            "content_html": "<p>Here's an update that brings many fixes to Mue and a few additions:</p>\n<p>Fixed:</p>\n<ul>\n<li>Translations on reset text, upload and toasts now work</li>\n<li>Prevent dragging of images in the modals</li>\n<li>Image upload dialog only accepts images now instead of erroring when a non-image file is uploaded</li>\n<li>Fix ratelimit returning undefined</li>\n<li>Fix 400 error in console on the marketplace</li>\n<li>Russian language is now correctly auto-detected</li>\n<li>Loading marketplace no longer shows no internet, it now says loading</li>\n<li>Scrollbar no longer escapes modal (thanks @MrZillaGold for finding and @edenbun for fixing!)</li>\n<li>Dark theme dropdowns now work</li>\n<li>Fix error from checkbox in console</li>\n<li>Search bar button now works properly with Yandex</li>\n<li>Fix slider issue on Firefox</li>\n</ul>\n<p>Added:</p>\n<ul>\n<li>Setting to adjust background brightness (thanks @edenbun !)</li>\n<li>Maximise button - click it to see just the background</li>\n<li>Settings to enable/disable refresh and maximise</li>\n<li>Favourite button - click it to make it so the background doesn't change on refresh</li>\n<li>Added sideload addons feature</li>\n<li>Added custom background colour feature</li>\n<li>Optimise various features</li>\n<li>Dark theme detection on reset settings</li>\n</ul>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T21:55:58+00:00",
+            "date_modified": "2020-11-06T14:34:23+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/mue-marketplace-an-introduction/",
+            "url": "https://blog.muetab.com/mue-marketplace-an-introduction/",
+            "title": "Mue Marketplace - An Introduction",
+            "summary": "Since we began working on Mue all the way back, we knew we wanted to create the best new tab out there while remaining true to our roots: complete transparency and customisability. We believe the marketplace is the next large step in that mission is&hellip;",
+            "content_html": "<p>Since we began working on Mue all the way back, we knew we wanted to create the best new tab out there while remaining true to our roots: complete transparency and customisability.<br>We believe the marketplace is the next large step in that mission is a store, a place for users of Mue to add even more personalisation to <strong>your </strong>new tab, it's a start but we believe overtime this will be a massive part of the future of this new tab.</p>\n<p>We will start with</p>\n<ul>\n<li>Photo Packs</li>\n<li>Quote Packs</li>\n<li>Preset settings</li>\n<li>Themes</li>\n</ul>\n<p>We plan to ever update this feature, similar to all of our other features.</p>\n<hr>\n<h2 id=\"how-to-use-the-marketplace\">How to use the marketplace</h2>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-3.png\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<figcaption>The Mue navbar</figcaption>\n</figure>\n<p>On the Mue navbar in the top right hand corner, there are three icons. A settings cog, a refresh button and an alert button. To access the marketplace you must click the settings cog.</p>\n<figure class=\"kg-card kg-image-card\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-4.png\" data-is-external-image=\"true\"  alt=\"\"></figure></figure>\n<p>This will open a modal with three tabs at the top, in order of appearance. Marketplace, My Addons and Settings. Settings is the default as shown by the darker line underneath settings compared to the lighter on marketplace and my add-ons.</p>\n<h2 id=\"installing-your-first-add-on\">Installing your first add-on</h2>\n<p>To install your first add-on, navigate to the marketplace by clicking the marketplace text. This will bring you to a familiar store page.</p>\n<figure class=\"kg-card kg-image-card\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-5.png\" data-is-external-image=\"true\"  sizes=\"(min-width: 720px) 720px\" srcset=\"https://blog.muetab.com/content/images/size/w600/2020/08/image-5.png 600w, https://blog.muetab.com/content/images/2020/08/image-5.png 964w\" alt=\"\"></figure></figure>\n<p>This is the marketplace page, the top has the news for today, in today's it is the feature change log for our newest update. Underneath that we have 4 titles, which are the types of packs able for install at launch. As an example, let's install \"Crunchyroll Hime\", a photo pack by ohlookitsderpy.</p>\n<p>In order to this click on the box which says \"Crunchyroll Hime\" and it should take you to a product page similar to this:</p>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-6.png\" data-is-external-image=\"true\"  sizes=\"(min-width: 720px) 720px\" srcset=\"https://blog.muetab.com/content/images/size/w600/2020/08/image-6.png 600w, https://blog.muetab.com/content/images/2020/08/image-6.png 959w\" alt=\"\"></figure>\n<figcaption>Crunchyroll Hime Product Page</figcaption>\n</figure>\n<p>Each product page has a few key features:</p>\n<ul>\n<li>A title</li>\n<li>An overview and description</li>\n<li>Information about the product</li>\n<li>A notice about requiring a refresh</li>\n<li>Add to Mue button</li>\n</ul>\n<p>To add this addon simply click the Add to Mue button, once you have done that refresh the page and you will see that your changes have taken place.</p>\n<h2 id=\"removing-add-ons\">Removing add-ons</h2>\n<p>To remove the add-on click on the My-Addons text in the tabs</p>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-7.png\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<figcaption>Add-on page</figcaption>\n</figure>\n<p>Then under added you should see all the add-ons which you have added to your extension. To remove it click on the card and once on the page click the remove button.</p>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/08/image-8.png\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<figcaption>Remove button</figcaption>\n</figure>\n<p>Once you have clicked the remove button a toast should appear, telling you that it has been successfully removed. To see the change, refresh the page and whatever the extension had changed will be reverted.</p>\n<p>We plan to also write developer documentation so you may create your own addon and submit it to the store.</p>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T21:55:46+00:00",
+            "date_modified": "2020-11-05T21:55:46+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/version-40-changelog/",
+            "url": "https://blog.muetab.com/version-40-changelog/",
+            "title": "Version 4.0 Changelog",
+            "summary": "Changes in version 4.0 of Mue Tab: Mue 4.0 is one of the largest updates, ever in the history of Mue. We have put many many hours into this update, we hope you enjoy it and please email us, message with an queries and suggestions.",
+            "content_html": "<p>Changes in version 4.0 of Mue Tab:</p>\n<ul>\n<li>Added marketplace</li>\n<li>Added translations</li>\n<li>Redid modal styling</li>\n<li>Updated search bar</li>\n<li>Redid check boxes</li>\n<li>Redid location - more improvements soon</li>\n<li>Added optional animations</li>\n<li>Analog clock</li>\n<li>Change search engine</li>\n<li>Added toast</li>\n</ul>\n<p>Mue 4.0 is one of the largest updates, ever in the history of Mue. We have put many many hours into this update, we hope you enjoy it and please email us, message with an queries and suggestions.</p>\n<p>Thanks, Team Mue.</p>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T21:55:20+00:00",
+            "date_modified": "2020-11-05T21:55:20+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/new-website/",
+            "url": "https://blog.muetab.com/new-website/",
+            "title": "New Website",
+            "summary": "A few days ago the Mue Team set out a goal, it was to revamp the website. Which while it was ok, we felt it was time for a refresh. We wanted something true to the Mue brand while remaining extremely fast and responsive. To&hellip;",
+            "content_html": "<p>A few days ago the Mue Team set out a goal, it was to revamp the website. Which while it was ok, we felt it was time for a refresh. We wanted something true to the Mue brand while remaining extremely fast and responsive.<br>To stick with our branding we made sure to use the exact same colours as used in our logo, the gradient and the white. Which explains most of the website design choices. Plus we stuck with the font we knew, Lexend Deca. Our favourite font, due it's simplicity and ease of access. Still keeping the main and best parts of the original, such as the demo, while giving it a better overall feel.</p>\n<p>I hope you enjoy this update to the website.</p>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T21:55:10+00:00",
+            "date_modified": "2020-11-05T21:55:10+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/settings-release/",
+            "url": "https://blog.muetab.com/settings-release/",
+            "title": "Settings Release",
+            "summary": "Change log: It has been a long time since we announced that settings were coming to Mue. We had some roadblocks along the way, but we're happy to announce that the day has finally come. Mue settings is now out! Now when you open up&hellip;",
+            "content_html": "<p>Change log:</p>\n<ul>\n<li>Added refresh button</li>\n<li>Added update log button</li>\n<li>Added settings button</li>\n<li>Implemented settings feature<br>* Time - Seconds, 24 hour, 12 hours<br>* Greeting - Events, add name for extra personalisation<br>* Quote - Copy button, copy quote and share it<br>* Background - Background blur and custom background (requires URL)<br>* Search Bar toggle<br>* Offline mode, not using Mue API</li>\n<li>Experimental Settings<br>* Enable WebP (not supported on all browsers but faster performance)<br>* Dark Theme, changes theme of modal  </li>\n</ul>\n<hr>\n<p>It has been a long time since we announced that settings were coming to Mue. We had some roadblocks along the way, but we're happy to announce that the day has finally come. Mue settings is now out!</p>\n<p>Now when you open up Mue, you will notice a new button on the screen. Clicking this will open the settings modal where you can edit components to make Mue your new tab. We listened to your feedback and added many requested settings. From changing search provider, to saving your data, Mue has it all.</p>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/07/unknown--20-.png\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<figcaption>The new settings modal</figcaption>\n</figure>\n<p>As well as this, we've also implemented some new features to Mue. You can change the background blur, enable seconds on the clock, change to 24 hour and many more. We hope you enjoy tweaking Mue to improve your productivity.</p>\n<figure class=\"kg-card kg-image-card kg-card-hascaption\"><figure class=\"kg-image\"><img loading=\"lazy\"  src=\"https://blog.muetab.com/content/images/2020/07/unknown--17-.png\" data-is-external-image=\"true\"  alt=\"\"></figure>\n<figcaption>A customised Mue tab</figcaption>\n</figure>\n<p>You might also notice there's another 2 new buttons: update log and refresh. These have also been features we've wanted to add for a long time and we hope you find them useful.</p>\n<p>As with all big updates, there might be bugs. If you find any, let us know! You can contact us via GitHub issues, email or our <a href=\"https://discord.gg/zv8C9F8\">Discord server.</a></p>\n<p>Finally, we're happy to announce that Wessel Tip is now a developer working on Mue. Currently, they're working on a rewrite for the API to make it faster!</p>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T21:54:51+00:00",
+            "date_modified": "2020-11-05T21:54:51+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/test-2/",
+            "url": "https://blog.muetab.com/test-2/",
+            "title": "New API Documentation",
+            "summary": "Today I am happy to announce that the new Mue API documentation has launched! It's mostly similar to the old one, but now it's cleaner, faster and has no tracking. We've switched from GitBook to Docsify, and you can find the documentation source in the Mue API GitHub&hellip;",
+            "content_html": "<p>Today I am happy to announce that the new Mue API documentation has launched! It's mostly similar to the old one, but now it's cleaner, faster and has no tracking. </p>\n<p>We've switched from <a href=\"https://gitbook.com/\">GitBook</a> to <a href=\"https://docsify.js.org/\">Docsify</a>, and you can find the documentation source in the Mue API GitHub repository <a href=\"https://github.com/mue/api/tree/master/docs\">here</a>.  The website URL is the same as before: <a href=\"https://apidocs.muetab.xyz/\">https://apidocs.muetab.com</a></p>\n<p>If you find any problems, please let us know by opening an issue on the API repository!</p>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T20:33:25+00:00",
+            "date_modified": "2020-11-05T21:54:27+00:00"
+        },
+        {
+            "id": "https://blog.muetab.com/test/",
+            "url": "https://blog.muetab.com/test/",
+            "title": "Welcome to the blog",
+            "summary": "Hello everyone, Welcome to the Mue blog. Here we will share updates on new features, interesting discoveries and general things happening over at Mue. We don’t have much to share here (yet), but when we’re ready we will announce things. Here’s a penguin for now:Photo&hellip;",
+            "content_html": "<p>Hello everyone,</p>\n<p>Welcome to the Mue blog. Here we will share updates on new features, interesting discoveries and general things happening over at Mue. We don’t have much to share here (yet), but when we’re ready we will announce things.</p>\n<p>Here’s a penguin for now:\n<img loading=\"lazy\" src='https://images.unsplash.com/photo-1575695395866-88ef389a1332?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ'></p>\n<center>Photo by Danielle Barnes / Unsplash</center>",
+            "author": {
+                "name": "Mue Staff"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-05T20:27:23+00:00",
+            "date_modified": "2020-11-05T21:53:55+00:00"
+        }
+    ]
+}

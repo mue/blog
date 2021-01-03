@@ -1,2 +1,0 @@
-# blog
-Mue Blog
