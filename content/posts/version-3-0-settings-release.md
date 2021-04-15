@@ -2,7 +2,8 @@
 title: Version 3.0 - Settings release
 date: 2020-07-20T22:37:33+01:00
 draft: false
-feature_image: ''
+author: David Ralph
+feature_image: 
 ---
 
 It has been a long time since we announced that settings were coming to Mue. We had some roadblocks along the way, but we're happy to announce that the day has finally come. Mue settings is now out!

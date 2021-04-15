@@ -2,3 +2,42 @@ baseURL: http://example.org"
 languageCode: en-gb
 title: Mue Blog
 theme: casper3
+enableEmoji: true
+enableRobotsTXT: true
+params:
+  logo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_horizontal.png 
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: https://muetab.com
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: https://muetab.com/contact
+      weight: 20
+  social:
+  - identifier: discord
+    name: Discord
+    url: https://discord.gg/zv8C9F8
+    params:
+      icon: 'fab fa-discord'
+    weight: 10
+  - identifier: github
+    name: GitHub
+    url: https://github.com/mue
+    params:
+      icon: 'fab fa-github'
+    weight: 20
+  - identifier: twitter
+    name: Twitter
+    url: https://twitter.com/getmue
+    params:
+      icon: 'fab fa-twitter'
+    weight: 30
+  - identifier: facebook
+    name: Facebook
+    url: https://www.facebook.com/muetab
+    params:
+      icon: 'fab fa-facebook'
+    weight: 40

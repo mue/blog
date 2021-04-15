@@ -2,7 +2,8 @@
 title: New API documentation
 date: 2020-07-20T21:30:15.000Z
 draft: false
-feature_image: ''
+author: David Ralph
+feature_image: 
 ---
 
 Today I am happy to announce that the new Mue API documentation has launched! It's mostly similar to the old one, but now it's cleaner, faster and has no tracking. 

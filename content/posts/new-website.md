@@ -2,7 +2,8 @@
 title: New website
 date: 2020-08-06T21:48:12.000Z
 draft: false
-feature_image: ''
+author: David Ralph
+feature_image: 
 ---
 
 A few days ago the Mue Team set out a goal, it was to revamp the website. Which while it was ok, we felt it was time for a refresh. We wanted something true to the Mue brand while remaining extremely fast and responsive.
