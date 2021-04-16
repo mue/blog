@@ -2,11 +2,14 @@ baseURL: https://blog.muetab.com
 languageCode: en-gb
 title: Mue Blog
 theme: casper3
+copyright: Mue Tab
 enableEmoji: true
 enableRobotsTXT: true
 params:
-  # description: Welcome to Mue's blog.
+  siteName: Mue
+  description: Welcome to Mue's blog.
   logo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_horizontal.png
+  embedLogo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_square.png
   headerBackground: https://i.imgur.com/GS7ISmh.png
   headerLogo: https://i.imgur.com/Wv7U2Ay.png
 menu:
@@ -23,6 +26,10 @@ menu:
       name: Contact
       url: https://muetab.com/contact
       weight: 30
+    - identifier: updates
+      name: Updates
+      url: /tags/update-release
+      weight: 40
   social:
   - identifier: discord
     name: Discord
@@ -63,3 +70,7 @@ outputs:
   term:
   - HTML
   - JSON
+taxonomies:
+  author: authors
+  category: categories
+  tag: tags

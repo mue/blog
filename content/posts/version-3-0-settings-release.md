@@ -2,7 +2,8 @@
 title: Version 3.0 - Settings release
 date: 2020-07-20T22:37:33+01:00
 draft: false
-author: David Ralph
+authors:
+  - David Ralph
 featured_image: 
 tags:
   - Update release

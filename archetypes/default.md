@@ -1,9 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: true
-author:
+authors:
+  - 
 featured_image:
 tags:
+keywords:
 ---
 

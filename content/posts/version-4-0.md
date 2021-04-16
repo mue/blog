@@ -2,7 +2,8 @@
 title: Version 4.0
 date: 2020-08-01T22:57:23+01:00
 draft: false
-author: David Ralph
+authors:
+  - David Ralph
 featured_image: 
 tags:
   - Update release

@@ -2,7 +2,8 @@
 title: New API documentation
 date: 2020-07-20T21:30:15.000Z
 draft: false
-author: David Ralph
+authors:
+  - David Ralph
 featured_image:
 tags:
 ---

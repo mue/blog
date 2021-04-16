@@ -2,7 +2,8 @@
 title: Version 4.1
 date: 2020-10-04T22:20:58.000Z
 draft: false
-author: David Ralph
+authors:
+  - David Ralph
 featured_image: 
 tags:
   - Update release

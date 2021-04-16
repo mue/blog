@@ -2,7 +2,8 @@
 title: New website
 date: 2020-08-06T21:48:12.000Z
 draft: false
-author: Alex Sparkes
+authors:
+  - Alex Sparkes
 featured_image: 
 tags:
 ---

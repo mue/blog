@@ -2,9 +2,11 @@
 title: Mue Marketplace
 date: 2020-08-28T22:01:22.000Z
 draft: false
-author: Alex Sparkes
+authors:
+  - Alex Sparkes
 featured_image: 'https://i.imgur.com/8KbydrP.jpg'
 tags:
+summary: Learn how to use the Mue Marketplace to install add-ons on your New Tab. Add-ons elevate your experience by allowing you to customise how Mue looks and feels.
 ---
 
 Since we began working on Mue all the way back, we knew we wanted to create the best new tab out there while remaining true to our roots.
