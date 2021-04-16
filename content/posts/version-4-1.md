@@ -3,7 +3,9 @@ title: Version 4.1
 date: 2020-10-04T22:20:58.000Z
 draft: false
 author: David Ralph
-feature_image: 
+featured_image: 
+tags:
+  - Update release
 ---
 
 Here's an update that brings many fixes to Mue and a few additions.
