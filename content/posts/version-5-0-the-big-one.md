@@ -2,7 +2,7 @@
 title: Version 5.0 - The big one
 date: 2021-04-15T22:43:13.000Z
 lastmod: 2021-04-18T12:50:00.288Z
-draft: true
+draft: false
 authors:
   - Isaac Saunders
 featured_image: 'https://i.imgur.com/wrR9yCT.png'
