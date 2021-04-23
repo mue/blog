@@ -49,3 +49,5 @@ What has changed? Everything.
 - Moved "Favourite" and "Maximise" buttons to the main navbar controls
 - Replaced the background image location tooltip with a new photo information section (<https://i.imgur.com/p6S16WQ.png>)
 - Auto mode for light/dark theme
+
+A lot of things were added in this update so we might have missed something in the above changelog. We hope you enjoy the update!
