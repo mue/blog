@@ -4,7 +4,7 @@ date: 2020-10-04T22:20:58.000Z
 draft: false
 authors:
   - David Ralph
-featured_image: 
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-4-1.webp'
 tags:
   - Update release
 summary: A bug fixing update for Mue with some new extra features and optimisation, further improving your experience.

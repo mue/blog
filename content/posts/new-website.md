@@ -4,7 +4,7 @@ date: 2020-08-06T21:48:12.000Z
 draft: false
 authors:
   - Alex Sparkes
-featured_image: 
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-website.webp'
 tags:
 summary: Read the story behind the development of the new Mue website.
 ---

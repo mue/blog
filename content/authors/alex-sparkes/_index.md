@@ -4,7 +4,7 @@ name: "Alex Sparkes"
 role: Senior Developer
 location: England, UK
 website:
-avatar: https://avatars.githubusercontent.com/u/25852280?v=4
+avatar: https://avatars.githubusercontent.com/u/25852280?v=4&size=128
 twitter: IWS_Mello
 github: alexsparkes
 ---

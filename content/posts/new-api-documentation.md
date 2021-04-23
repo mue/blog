@@ -4,7 +4,7 @@ date: 2020-07-20T21:30:15.000Z
 draft: false
 authors:
   - David Ralph
-featured_image:
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-api-docs.webp'
 tags:
 summary: Announcing a new, updated API documentation with improvements to privacy and speed.
 ---
