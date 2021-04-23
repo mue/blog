@@ -6,6 +6,7 @@ authors:
   - David Ralph
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/welcome-to-the-blog.webp'
 tags:
+ - Blog Announcement
 summary: Introducing the Mue Blog, informing you of all the latest additions and changes to the Mue project.
 ---
 

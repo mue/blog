@@ -6,6 +6,7 @@ authors:
   - Isaac Saunders
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-blog.webp'
 tags:
+ - Blog Announcement
 keywords:
   - blog
 summary: The new Mue blog, powered by Hugo.

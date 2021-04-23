@@ -6,6 +6,7 @@ authors:
   - David Ralph
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-api-docs.webp'
 tags:
+ - Documentation Update
 summary: Announcing a new, updated API documentation with improvements to privacy and speed.
 ---
 

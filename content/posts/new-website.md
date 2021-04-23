@@ -6,6 +6,7 @@ authors:
   - Alex Sparkes
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-website.webp'
 tags:
+ - Documentation Update
 summary: Read the story behind the development of the new Mue website.
 ---
 
