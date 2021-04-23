@@ -6,6 +6,7 @@ authors:
   - Alex Sparkes
 featured_image: 
 tags:
+summary: Read the story behind the development of the new Mue website.
 ---
 
 A few days ago the Mue Team set out a goal, it was to revamp the website. Which while it was ok, we felt it was time for a refresh. We wanted something true to the Mue brand while remaining extremely fast and responsive.

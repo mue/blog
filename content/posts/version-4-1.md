@@ -7,6 +7,7 @@ authors:
 featured_image: 
 tags:
   - Update release
+summary: A bug fixing update for Mue with some new extra features and optimisation, further improving your experience.
 ---
 
 Here's an update that brings many fixes to Mue and a few additions.
@@ -15,7 +16,7 @@ Here's an update that brings many fixes to Mue and a few additions.
 
 ### Added
 
-- Setting to adjust background brightness (thanks @edenbun !)
+- Setting to adjust background brightness (thanks @edenbun!)
 - Maximise button - click it to see just the background
 - Settings to enable/disable refresh and maximise
 - Favourite button - click it to make it so the background doesn't change on refresh

@@ -8,6 +8,7 @@ featured_image: 'https://images.unsplash.com/photo-1523311964370-42ac336c878b?ix
 tags:
 keywords:
   - blog
+summary: The new Mue blog, powered by Hugo.
 ---
 
 Hugo is cool. Ghost is also cool and has an awesome default theme. We mixed them.

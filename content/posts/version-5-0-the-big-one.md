@@ -8,6 +8,7 @@ authors:
 featured_image: 'https://i.imgur.com/wrR9yCT.png'
 tags:
   - Update release
+summary: The biggest update to Mue yet. Learn about everything that was added to Mue in the new 5.0 release.
 ---
 
 Over the last six months, we have been working on the largest (and longest to develop) update to Mue. The v5.0 screenshot above compared to the v4.1 screenshot below shows the massive transformation that Mue has undergone.

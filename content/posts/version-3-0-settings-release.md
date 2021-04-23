@@ -7,6 +7,7 @@ authors:
 featured_image: 
 tags:
   - Update release
+summary: Introducing settings to Mue, allowing for lots of customisation to make Mue yours.
 ---
 
 It has been a long time since we announced that settings were coming to Mue. We had some roadblocks along the way, but we're happy to announce that the day has finally come. Mue settings is now out!
