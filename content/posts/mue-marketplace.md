@@ -35,7 +35,7 @@ This is the marketplace page, the top has the news for today, in today's it is t
 
 In order to this click on the box which says "Crunchyroll Hime" and it should take you to a product page similar to this:
 
-![Photo pack page](https://i.imgur.com/8yKtx8I.png)
+![Photo pack page](https://res.cloudinary.com/mue/image/upload/blog/photopack.webp)
 
 Each product page has a few key features:
 

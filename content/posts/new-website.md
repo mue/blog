@@ -7,7 +7,7 @@ authors:
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/new-website.webp'
 tags:
  - Documentation Update
-summary: Read the story behind the development of the new Mue website.
+summary: Read the story behind the development of the brand new official Mue website.
 ---
 
 A few days ago the Mue Team set out a goal, it was to revamp the website. Which while it was ok, we felt it was time for a refresh. We wanted something true to the Mue brand while remaining extremely fast and responsive.

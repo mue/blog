@@ -10,8 +10,8 @@ params:
   description: Welcome to Mue's blog.
   logo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_horizontal.png
   embedLogo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_square.png
-  headerBackground: https://i.imgur.com/GS7ISmh.png
-  headerLogo: https://i.imgur.com/Wv7U2Ay.png
+  headerBackground: https://res.cloudinary.com/mue/image/upload/blog/muebackground.jpg
+  headerLogo: https://res.cloudinary.com/mue/image/upload/blog/muelogo.png
 menu:
   main:
     - identifier: home
