@@ -48,7 +48,7 @@ What has changed? Everything.
 - Completely new options modal
 - Moved changelog to the main options modal
 - Moved "Favourite" and "Maximise" buttons to the main navbar controls
-- Replaced the background image location tooltip with a new photo information section (<https://res.cloudinary.com/mue/image/upload/blog/photoinformation.webp>)
+- Replaced the background image location tooltip with a new photo information section ([image](https://res.cloudinary.com/mue/image/upload/blog/photoinformation.webp))
 - Auto mode for light/dark theme
 
 A lot of things were added in this update so we might have missed something in the above changelog. We hope you enjoy the update!
