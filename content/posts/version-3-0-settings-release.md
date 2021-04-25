@@ -4,7 +4,7 @@ date: 2020-07-20T22:37:33+01:00
 draft: false
 authors:
   - David Ralph
-featured_image: 
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-3-0-settings-release.webp'
 tags:
   - Update release
 summary: Introducing settings to Mue, allowing for lots of customisation to make Mue yours.
