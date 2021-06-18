@@ -4,7 +4,7 @@ date: 2021-06-16T22:12:18.000Z
 draft: true
 authors:
   - David Ralph
-featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-4-1.webp'
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-5-1.webp'
 tags:
   - Update release
 summary: A bug fixing update for Mue with some new extra features and optimisation, further improving your experience.
@@ -16,7 +16,7 @@ Here's an update that brings some new features to Mue and fixes.
 
 ### Added
 
-- Autocomplete to searchbar
+- Autocomplete on searchbar with support for Google and Bing
 - Individual widget zoom
 - Sort on marketplace and addons
 - Background filters
@@ -26,6 +26,7 @@ Here's an update that brings some new features to Mue and fixes.
 - Quality setting for API background images
 - New weather options (wind direction, show text, visibility, cloudiness etc) and auto location
 - Photo information icon toggle option
+- Quick links DuckDuckGo proxy toggle option (when off it uses Google instead to get favicons)
 
 ### Changes
 - Hot reload now works on Custom CSS and font settings
