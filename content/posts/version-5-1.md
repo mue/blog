@@ -1,7 +1,7 @@
 ---
 title: Version 5.1
 date: 2021-06-16T22:12:18.000Z
-draft: true
+draft: false
 authors:
   - David Ralph
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-5-1.webp'
@@ -35,6 +35,7 @@ Here's an update that brings some new features to Mue and fixes.
 - Marketplace cleanup
 - Searchbar now supports light theme
 - Favourite background now shows all photo information
+- Chinese (Simplified) and Spanish translations have been updated
 
 ### Fixed
 
@@ -42,4 +43,5 @@ Here's an update that brings some new features to Mue and fixes.
 - Custom JS now works (thanks @Kurasad for reporting!)
 - Safari and Firefox CSS fixes
 - DuckDuckGo proxy no longer breaks offline mode
+- Voice search now works properly with 5.0
 - Various other fixes
