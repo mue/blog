@@ -21,7 +21,7 @@ Mue is now smaller, faster, and more beautiful, with new features and even more 
 
 What has changed? Everything.
 
-### Additions
+### Added
 
 - `German`, `English (US)`, `Spanish`, and `Chinese (Simplified)` languages
 - Quote language option
@@ -43,7 +43,7 @@ What has changed? Everything.
 - Welcome to Mue modal
 - About Mue page
 
-### Improvements
+### Changed
 
 - Completely new options modal
 - Moved changelog to the main options modal

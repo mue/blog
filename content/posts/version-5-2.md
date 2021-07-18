@@ -1,6 +1,6 @@
 ---
 title: Version 5.2
-date: 2021-07-16T22:12:18.000Z
+date: 2021-07-18T22:12:18.000Z
 draft: true
 authors:
   - David Ralph
@@ -17,7 +17,10 @@ Here's an update that brings some new features to Mue and fixes.
 ### Added
 
 - New welcome modal experience
-- Quick Links Zoom
+- Change quote/background every x
+- Quick links zoom
+- Set timezone in settings, or continue to use automatic by default
+- Send event debug feature in experimental
 
 ### Changes
 - Hot reload now works on voice search and navbar
@@ -35,3 +38,4 @@ Here's an update that brings some new features to Mue and fixes.
 - Clock minutes are always zero-padded as they should be (thanks @garfieldbanks for reporting!)
 - Various settings bug fixes
 - Custom JS errors no longer breaks Mue entirely
+- Add link popup now covers other widgets correctly

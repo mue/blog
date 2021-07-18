@@ -24,6 +24,8 @@ Finally, we're happy to announce that Wessel Tip is now a developer working on M
 
 ## Changelog
 
+### Added
+
 - Added refresh button
 - Added update log button
 - Added settings button
