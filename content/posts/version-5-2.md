@@ -1,7 +1,7 @@
 ---
 title: Version 5.2
-date: 2021-07-18T22:12:18.000Z
-draft: true
+date: 2021-08-01T22:12:18.000Z
+draft: false
 authors:
   - David Ralph
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-5-2.webp'
@@ -39,3 +39,6 @@ Here's an update that brings some new features to Mue and fixes.
 - Various settings bug fixes
 - Custom JS errors no longer breaks Mue entirely
 - Add link popup now covers other widgets correctly
+- Some bugs with offline mode and background proxy not working correctly
+- Changelog date now works on Firefox
+- Various other fixes and optimisations
