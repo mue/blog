@@ -6,7 +6,7 @@ authors:
   - Alex Sparkes
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/mue-marketplace.webp'
 tags:
-  - Update releases
+  - Update release
 summary: The update introducing the Mue Marketplace, improved modal and translation support for Mue.
 ---
 
