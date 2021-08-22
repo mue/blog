@@ -10,15 +10,15 @@ tags:
 summary: The update introducing the Mue Marketplace, improved modal and translation support for Mue.
 ---
 
-Mue 4.0 is one of the largest updates, ever in the history of Mue. We have put many many hours into this update, we hope you enjoy it and please email us, message with an queries and suggestions.
+Mue 4.0 is one of the largest updates ever in the history of Mue. We have put many hours into this update, we hope you enjoy it and please email us with any queries or suggestions.
 
 ## Changelog
 
-- Added marketplace
+- Added marketplace and addons
 - Added translations
 - Redid modal styling
 - Updated search bar
-- Redid check boxes
+- Redid checkboxes
 - Redid location - more improvements soon
 - Added optional animations
 - Analog clock

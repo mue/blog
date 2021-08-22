@@ -19,11 +19,11 @@ We will start with:
 - Preset settings
 - Themes
 
-We plan to ever update this feature, similar to all of our other features.
+We plan to keep updating this feature, similar to all of our other features.
 
 ## How to use the marketplace
 
-On the Mue navbar in the top right hand corner, there are three icons. A settings cog, a refresh button and an alert button. To access the marketplace you must click the settings cog.
+On the Mue navbar in the top right hand corner, there are three icons. A settings cog, a refresh button and an alert button. To access the marketplace you must click the settings icon.
 
 This will open a modal with three tabs at the top, in order of appearance. Marketplace, My Addons and Settings. Settings is the default as shown by the darker line underneath settings compared to the lighter on marketplace and my add-ons.
 
