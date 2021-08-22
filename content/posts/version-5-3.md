@@ -1,16 +1,16 @@
 ---
 title: Version 5.3
-date: 2021-08-21T10:56:00.000Z
+date: 2021-08-22T10:56:00.000Z
 draft: false
 authors:
   - David Ralph
 featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-5-3.webp'
 tags:
   - Update release
-summary: Bug fixes and optimisations with a few small features to improve your Mue experience further
+summary: Bug fixes and optimisations with a few small features to improve your Mue experience further.
 ---
 
-Here's an update that brings some new features to Mue and fixes.
+Here's an update that brings some new features to Mue and a lot of fixes.
 
 ## Changelog
 
@@ -22,8 +22,8 @@ Here's an update that brings some new features to Mue and fixes.
 
 ### Changes
 
-* Mue now opens a new tab when installed
-* When uninstalling Mue, an optional uninstall survey is opened in a new tab once it has been uninstalled
+* Mue now opens a new tab when installed on Chromium-based browsers
+* When uninstalling Mue, an optional uninstall survey is opened in a new tab once it has been uninstalled on Chromium-based browsers
 * Photo information no longer shows N/A, instead the field is hidden
 * Optimisations
 
