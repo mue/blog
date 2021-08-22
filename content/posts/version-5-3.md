@@ -31,6 +31,8 @@ Here's an update that brings some new features to Mue and fixes.
 
 * Tooltip has correct fade out transition
 * Favourite button now works properly when photo information icon is off
+* Favourite button now works properly with marketplace photo packs
+* Birthday greeting inconsistency has been fixed when default greeting message is off
 * Massive fixes to modal responsiveness, including sidebar and marketplace issues
 * Fixed text appearing behind modal during open transition
 * Search now works correctly when pressing enter
@@ -40,3 +42,4 @@ Here's an update that brings some new features to Mue and fixes.
 * About tab tooltips text no longer go outside of the tooltip
 * Quicklinks zoom no longer affects the add quicklink button which has also been fixed with zoom
 * Text shadow removed on add quicklink to be consistent with notes
+* 12 hour clock has been fixed at midnight (thanks @garfieldbanks for reporting!)
