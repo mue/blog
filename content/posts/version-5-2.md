@@ -22,7 +22,7 @@ Here's an update that brings some new features to Mue and fixes.
 - Set timezone in settings, or continue to use automatic by default
 - Send event debug feature in experimental
 
-### Changes
+### Changed
 - Hot reload now works on voice search and navbar
 - Voice search now works on Edge
 - Background resolution is much more accurate and works on images from all sources

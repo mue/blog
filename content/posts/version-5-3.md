@@ -20,12 +20,15 @@ Here's an update that brings some new features to Mue and a lot of fixes.
 * Create tab so you can easily make preset settings addons with photo packs and quote packs coming soon
 * Navbar widget zoom
 
-### Changes
+### Changed
 
 * Mue now opens a new tab when installed on Chromium-based browsers
 * When uninstalling Mue, an optional uninstall survey is opened in a new tab once it has been uninstalled on Chromium-based browsers
 * Photo information no longer shows N/A, instead the field is hidden
 * Optimisations
+
+### Removed
+* Global widget zoom in favor of less buggy individual zoom sliders
 
 ### Fixed
 

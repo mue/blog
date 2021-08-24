@@ -28,7 +28,7 @@ Here's an update that brings some new features to Mue and fixes.
 - Photo information icon toggle option
 - Quick links DuckDuckGo proxy toggle option (when off it uses Google instead to get favicons)
 
-### Changes
+### Changed
 - Hot reload now works on Custom CSS and font settings
 - Quote packs now work on 5.1
 - Quote settings UI improved
