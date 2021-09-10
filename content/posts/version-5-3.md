@@ -28,6 +28,7 @@ Here's an update that brings some new features to Mue and a lot of fixes.
 * Optimisations
 
 ### Removed
+
 * Global widget zoom in favor of less buggy individual zoom sliders
 
 ### Fixed
