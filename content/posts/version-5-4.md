@@ -19,11 +19,14 @@ Here's an update that brings some highly-requested features to Mue and a few fix
 * Keybinds
 * Search engine dropdown
 * Support for multiple custom backgrounds
+* Support for multiple custom quotes
+* Message widget with random messages support
 * Added map to photo information showing the location
 * Check for addon updates button
 * Refresh page button now has support for refreshing background, quote or both instead
 * Text shadow/border option
 * No animations setting is back
+* Custom icon support for quick links and text only option
 
 ### Changed
 
