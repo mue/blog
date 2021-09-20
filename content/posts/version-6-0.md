@@ -1,16 +1,16 @@
 ---
-title: Version 5.4
+title: Version 6.0
 date: 2021-08-22T10:56:00.000Z
 draft: true
 authors:
   - David Ralph
-featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-5-4.webp'
+featured_image: 'https://res.cloudinary.com/mue/image/upload/blog/version-6-0.webp'
 tags:
   - Update release
-summary: Some new features added to Mue and small optimisations/fixes.
+summary: Highly requested features and some improvements to the Mue interface
 ---
 
-Here's an update that brings some highly-requested features to Mue and a few fixes.
+Here's an update that brings some highly requested features to Mue, improvements to the interface and much more.
 
 ## Changelog
 
@@ -18,8 +18,10 @@ Here's an update that brings some highly-requested features to Mue and a few fix
 
 * Keybinds
 * Search engine dropdown
-* Support for multiple custom backgrounds
-* Support for multiple custom quotes
+* Support for multiple custom backgrounds (works with interval)
+* Support for multiple custom quotes (works with interval)
+* Random colour/gradient as background
+* Create tab now supports photo and quote packs
 * Message widget with random messages support
 * Added map to photo information showing the location
 * Check for addon updates button
