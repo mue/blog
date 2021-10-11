@@ -1,6 +1,6 @@
 ---
 title: Version 6.0
-date: 2021-08-22T10:56:00.000Z
+date: 2021-10-22T10:56:00.000Z
 draft: true
 authors:
   - David Ralph
@@ -29,10 +29,13 @@ Here's an update that brings some highly requested features to Mue, improvements
 * Text shadow/border option
 * No animations setting is back
 * Custom icon support for quick links and text only option
+* Show navbar icons only on hover option
 
 ### Changed
 
-* Optimisations
+* Updated modal UI
+* Optimised custom background inputs for large images
+* Other optimisations
 
 ### Fixed
 
