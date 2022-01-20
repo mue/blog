@@ -8,8 +8,8 @@ enableRobotsTXT: true
 params:
   siteName: Mue
   description: Welcome to Mue's blog.
-  logo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_horizontal.png
-  embedLogo: https://raw.githubusercontent.com/mue/branding/master/logo/logo_square.png
+  logo: https://res.cloudinary.com/mue/website/logo_horizontal.webp
+  embedLogo: https://res.cloudinary.com/mue/website/logo_square.webp
   headerBackground: https://res.cloudinary.com/mue/image/upload/blog/muebackground.jpg
   headerLogo: https://res.cloudinary.com/mue/image/upload/blog/muelogo.png
 menu:
