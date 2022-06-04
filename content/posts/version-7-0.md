@@ -1,6 +1,6 @@
 ---
 title: Version 7.0
-date: 2022-05-22T10:56:00.000Z
+date: 2022-07-04T10:56:00.000Z
 draft: true
 authors:
   - David Ralph
@@ -22,9 +22,7 @@ summary: Release of the largest update yet to Mue
 * Revamp modal with better accessibility and loader, with less bugs
 * Marketplace all tab, collections and redesign
 * Quote author information and image
-* Reminder widget
 * Todo widget
-* Pomodoro widget
 * Download notes
 * Various new settings options - have a look and discover them
 * Voice search now shows when its enabled
@@ -32,7 +30,6 @@ summary: Release of the largest update yet to Mue
 * Custom background drag and drop
 * Optional error reporting
 * You can now install multiple marketplace items to "stack" them, such as getting a random quote from many different packs
-* Optionally, you can now sync your settings to the cloud DuckDuckGo-style
 * Too many other things to count
 
 ### Changed
